@@ -1,0 +1,15 @@
+.move:link,
+.move:visited{
+    padding: 10px 20px;
+    height: 10px;
+    background-color: green;
+    list-style: none;
+    text-decoration: none;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: red;
+    font-weight: 300;
+    
+    
+}
